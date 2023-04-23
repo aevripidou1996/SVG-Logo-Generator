@@ -24,14 +24,14 @@ The app allows the user to select 2 diffrent colours for the text and the shape.
 ![image](https://user-images.githubusercontent.com/114223852/233830849-b9238489-62f8-4daa-9bd5-d144060eadfd.png)
 
 
-##Links
+## Links
 In the link's bellow you will find 2 URL links.
 
 The first URL will take you to my Github repository, which contanins:
 
-The code for this assesment.
-Previous git pusheshes with modified code.
-The final code used to render this application.
+- The code for this assesment.
+- Previous git pusheshes with modified code.
+- The final code used to render this application.
 
 The second link will take the user to a demonstratiion videio showcasing the working application.
 
