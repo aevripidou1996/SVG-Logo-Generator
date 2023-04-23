@@ -35,7 +35,7 @@ The first URL will take you to my Github repository, which contanins:
 - Previous git pusheshes with modified code.
 - The final code used to render this application.
 
-The second link will take the user to a demonstratiion videio showcasing the working application.
+The second link will take the user to a demonstration video showcasing the working application.
 
 Github URL: https://github.com/aevripidou1996/SVG-Logo-Generator
 
