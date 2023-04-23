@@ -14,7 +14,15 @@ The app allows the user to select 2 diffrent colours for the text and the shape.
 
 
 ## Images 
+
+## VSCode Terminale
 ![image](https://user-images.githubusercontent.com/114223852/233830768-5a7fabba-431f-4af0-8b7c-c7b5abf3fa92.png)
+
+
+
+## Generated Logo
+![image](https://user-images.githubusercontent.com/114223852/233830849-b9238489-62f8-4daa-9bd5-d144060eadfd.png)
+
 
 
 
